@@ -14,7 +14,7 @@
 [mention your project hosted project link here]
 
 ### Project Description
-!HOME(Haven Of Meaningful Endeavors) is a technology-driven platform designed to connect homeless individuals with nearby orphanages, old age homes, and volunteers. The system helps identify and assist underprivileged individuals by enabling people to report cases and mobilize support for transportation, counseling, and rehabilitation.
+Our project is a community-driven platform designed to support homeless and underprivileged individuals by connecting them with nearby orphanages, old age homes, and volunteer services. Users can easily add details about a person in need, and the system automatically notifies relevant organizations in the vicinity to provide assistance. With features like volunteer transportation services and real-time notifications, the platform streamlines the process of offering help, fostering collaboration between communities and support organizations to create a more inclusive and compassionate society.
 
 
 ### The Problem statement
@@ -87,30 +87,28 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Team](Add photo of your team here)
+
+![home1](https://github.com/user-attachments/assets/591ff47d-215f-4968-afeb-d454626abef2)
+![home2](https://github.com/user-attachments/assets/389fd0b0-615d-46f3-8e9e-89be405901ae)
+![home3](https://github.com/user-attachments/assets/0189a31f-f926-44d6-ab81-d96a05a45f39)
 
 
-![Components](Add photo of your components here)
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
 
-![Final](Add photo of final product here)
-*Explain the final build*
+
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1mPOgjSUBJgkTvk-3Cs_J5qPDYGjUMJH6/view?usp=sharing 
+Our project demo highlights how the platform connects individuals in need with nearby support organizations and volunteers. Users can easily input details about a homeless or underprivileged person, including location and needs, which triggers real-time notifications to nearby orphanages, old-age homes, and support organizations. The demo also showcases the volunteer service feature, where volunteers can register, view assistance requests, and accept tasks seamlessly. With a secure and efficient backend, the platform ensures smooth data flow and fosters collaboration, simplifying the process of providing help and making a meaningful impact in the community.
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- AMISHA SHANEY: FRONTEND,MAP API
+- DEVATHEERTHA: FRONTEND,BACKEND
+- NEHAL NOURINE: FRONTEND,BACKEND
 
 ---
 Made with ❤️ at TinkerHub
